@@ -1,0 +1,19 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+.buttons {
+ display:flex;
+ justify-content: space-evenly;
+ position:fixed;
+ bottom:20px;
+ flex-wrap: wrap;
+ width:100vw;
+}
+.heading{
+    font-size: 30px;
+    text-align: center;
+    color:white;
+}
